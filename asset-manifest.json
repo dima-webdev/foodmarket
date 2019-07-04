@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dima-webdev/foodmarket/static/css/main.9442e29b.chunk.css",
-    "main.js": "/dima-webdev/foodmarket/static/js/main.9ec6d329.chunk.js",
-    "main.js.map": "/dima-webdev/foodmarket/static/js/main.9ec6d329.chunk.js.map",
-    "runtime~main.js": "/dima-webdev/foodmarket/static/js/runtime~main.c6756bcd.js",
-    "runtime~main.js.map": "/dima-webdev/foodmarket/static/js/runtime~main.c6756bcd.js.map",
-    "static/js/2.71412b09.chunk.js": "/dima-webdev/foodmarket/static/js/2.71412b09.chunk.js",
-    "static/js/2.71412b09.chunk.js.map": "/dima-webdev/foodmarket/static/js/2.71412b09.chunk.js.map",
-    "index.html": "/dima-webdev/foodmarket/index.html",
-    "precache-manifest.89f4534739c50e77fb4ad238706f2411.js": "/dima-webdev/foodmarket/precache-manifest.89f4534739c50e77fb4ad238706f2411.js",
-    "service-worker.js": "/dima-webdev/foodmarket/service-worker.js",
-    "static/css/main.9442e29b.chunk.css.map": "/dima-webdev/foodmarket/static/css/main.9442e29b.chunk.css.map"
+    "main.css": "/foodmarket/static/css/main.9442e29b.chunk.css",
+    "main.js": "/foodmarket/static/js/main.7c1abc7e.chunk.js",
+    "main.js.map": "/foodmarket/static/js/main.7c1abc7e.chunk.js.map",
+    "runtime~main.js": "/foodmarket/static/js/runtime~main.9607f6bd.js",
+    "runtime~main.js.map": "/foodmarket/static/js/runtime~main.9607f6bd.js.map",
+    "static/js/2.71412b09.chunk.js": "/foodmarket/static/js/2.71412b09.chunk.js",
+    "static/js/2.71412b09.chunk.js.map": "/foodmarket/static/js/2.71412b09.chunk.js.map",
+    "index.html": "/foodmarket/index.html",
+    "precache-manifest.2b3cc45a3ab85ca48fc8817b04ef7d88.js": "/foodmarket/precache-manifest.2b3cc45a3ab85ca48fc8817b04ef7d88.js",
+    "service-worker.js": "/foodmarket/service-worker.js",
+    "static/css/main.9442e29b.chunk.css.map": "/foodmarket/static/css/main.9442e29b.chunk.css.map"
   }
 }
